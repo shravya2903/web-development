@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Version control for web development repo.
+=======
+This is the version control for web-development repo.
+>>>>>>> 7a243cfd11237bbfaa7521462e42f0249ff7b37f
